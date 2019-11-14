@@ -4,7 +4,7 @@ The Hacking Projet - session 10 - 2019
 
     Chaque script contient le code d'un des exercices. 
 
-    Pour tester, il faudra changer l'appel des scripts un par un:
+    Pour tester dans la console de ton navigateur, il faudra changer l'appel des scripts un par un:
 
     script_1
     script_2
