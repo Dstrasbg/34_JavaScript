@@ -1,4 +1,4 @@
-/*2.3. Analyses de données
+/*Exo 2.3. Analyses de données
 2.3.1. Startup Nation*/
 
 const entrepreneurs = [
